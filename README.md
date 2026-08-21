@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Channeling Center - Setup Guide
 
 A plain **HTML / CSS / JavaScript / PHP / MySQL** web app (no frameworks) for the
@@ -90,3 +91,6 @@ echanneling/
 - Add appointment cancellation for patients using a lookup by contact
   number + appointment ID.
 - Add pagination to the appointments table for large datasets.
+=======
+# Group4-E-Channeling-Center
+>>>>>>> b8f2ffd66fcd6e15317a1c456d7a3cf7e962ca30
